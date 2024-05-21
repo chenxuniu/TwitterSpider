@@ -14,10 +14,7 @@ TwitterSpider is a Python-based tool designed to crawl and collect replies to sp
    ```bash
    git clone https://github.com/yourusername/TwitterSpider.git
    cd TwitterSpider
-
-
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-
-pip install -r requirements.txt
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   pip install -r requirements.txt
 
